@@ -19,7 +19,7 @@ Follow these steps to set up and run the Laravel project on your local machine.
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/hvtheer/demo123.git
+git clone https://github.com/mrhan68/Web_project_final
 ```
 
 ### Navigate to Project Folder
