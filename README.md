@@ -91,13 +91,6 @@ Import the provided SQL file into the demo123 database:
 
 3. Choose the e-shop.sql file from the database folder and click "Go" to import the data.
 
-### Unzip and Replace Storage Folder
-
-Unzip the storage.zip file and replace the existing storage folder with the extracted contents.
-
-```bash
-unzip storage.zip
-```
 
 ### Create Symbolic Link for Storage
 
